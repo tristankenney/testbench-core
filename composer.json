@@ -30,8 +30,6 @@
         "fzaninotto/faker": "^1.4"
     },
     "require-dev": {
-        "laravel/framework": "^6.2",
-        "laravel/laravel": "dev-master",
         "mockery/mockery": "^1.2.3",
         "phpunit/phpunit": "^8.3"
     },
